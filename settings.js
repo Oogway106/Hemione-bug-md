@@ -10,23 +10,23 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348107582855"
-global.ownername = "メ メ 𝗛𝗘𝗥𝗠𝗜𝗢𝗡𝗘✝️"
+global.ownernomer = "2347015667458"
+global.ownername = "𝙏𝞖𝞢 𝘿𝞢𝝯𝞘𝙇 𝞖𝞘𝞛𝙎𝞢𝙇𝙁💔"
 global.ytname = "YT: Xeon"
-global.socialm = "GitHub: Feranmi245"
+global.socialm = "GitHub: Dominican643"
 global.location = "nigeria, lagos, abuja"
 
-global.ownernumber = '2348107582855'  //creator number
-global.ownername = '𝗛𝗘𝗥𝗠𝗜𝗢𝗡𝗘✝️' //owner name
-global.botname = 'メ メ 𝗛𝗘𝗥𝗠𝗜𝗢𝗡𝗘✝️' //name of the bot
+global.ownernumber = '2347015667458'  //creator number
+global.ownername = '𝙏𝞖𝞢 𝘿𝞢𝝯𝞘𝙇 𝞖𝞘𝞛𝙎𝞢𝙇𝙁💔' //owner name
+global.botname = '𝙏𝞖𝞢 𝘿𝞢𝝯𝞘𝙇 𝞛𝘿' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By your mom'
-global.author = 'メ メ 𝗛𝗘𝗥𝗠𝗜𝗢𝗡𝗘✝️'
+global.packname = '𝞑𝞢𝙇𝞗𝞜𝙂𝙎 𝙏𝞗'
+global.author = '𝙏𝞖𝞢 𝘿𝞢𝝯𝞘𝙇'
 
 //console view/theme
-global.themeemoji = '✝️'
-global.wm = "Hermione Bot Inc."
+global.themeemoji = '💔'
+global.wm = "Devil Bot Inc."
 
 //theme link
 global.link = ''
